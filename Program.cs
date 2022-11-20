@@ -11,7 +11,7 @@ namespace PasswordGenerator
         {
             
             DisplayInformation();
-            
+            //This is a test comment from the feature branch
             bool keepGenerating = true;
             while (keepGenerating)
             {
