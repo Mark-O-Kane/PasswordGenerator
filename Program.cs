@@ -11,7 +11,7 @@ namespace PasswordGenerator
         {
             
             DisplayInformation();
-            
+            //This is a test from my new machine
             bool keepGenerating = true;
             while (keepGenerating)
             {
